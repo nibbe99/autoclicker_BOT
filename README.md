@@ -1,4 +1,4 @@
-Autoclicker Cookie BOT
+Autoclicker Cookie BOT with an implemented algoritm to always upgrade the most expensive powerup
 
 
 
